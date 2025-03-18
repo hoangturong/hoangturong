@@ -11,12 +11,12 @@
 - 👀 : Đây là [website cá nhân của tôi](https://vantrong.x10.mx/)
 - 📧 : Liên hệ với tôi qua [trong20843@gmail.com](mailto:trong20843@gmail.com)
 - ❤️ : Những lĩnh vực tôi đam mê:
-- 🪐 Hệ điều hành (Windows & Linux)
-- 🖥️ Phát triển website
-- 📝 Viết bài và tài liệu
-- 👀 Tôi quan tâm đến **An ninh mạng, Mạng máy tính và Dự án mã nguồn mở**.
-- 🌱 Hiện tại tôi đang học **Kiểm thử xâm nhập, Ethical Hacking và Mạng nâng cao**.
-- 💞️ Tôi mong muốn hợp tác trong **Nghiên cứu bảo mật và phát triển công cụ an ninh mạng**.
+  - 🪐 Hệ điều hành (Windows & Linux)
+  - 🖥️ Phát triển website
+  - 📝 Viết bài và tài liệu
+  - 👀 Tôi quan tâm đến **An ninh mạng, Mạng máy tính và Dự án mã nguồn mở**.
+  - 🌱 Hiện tại tôi đang học **Kiểm thử xâm nhập, Ethical Hacking và Mạng nâng cao**.
+  - 💞️ Tôi mong muốn hợp tác trong **Nghiên cứu bảo mật và phát triển công cụ an ninh mạng**.
 - 📫 Liên hệ với tôi qua:
   - 📘 **[Facebook](https://www.facebook.com/hackersbybus)**
   - ✈️ **[Telegram](https://t.me/ZzTLINHzZ)**
